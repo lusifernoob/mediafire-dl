@@ -1,8 +1,8 @@
 {
-  "name": "MissJuliaRobot",
-  "description": "A Telegram Group Management Bot",
-  "logo": "https://telegra.ph/file/517f97b74ad036b2ef3c9.jpg",
+  "name": "MediaFire-DL",
+  "description": "MediaFire-DL",
+  "logo": "https://telegra.ph/file/a3c5b2d8fd5df3662366d.jpg",
   "keywords": ["telethon", "sqlalchemy", "mongodb"],
-  "repository": "https://github.com/MissJuliaRobot/MissJuliaRobot.git",
-  "success_url": "http://missjuliarobot.unaux.com",
+  "repository": "https://github.com/lusifernoob/mediafire-dl",
+  "success_url": "https://github.com/lusifernoob/mediafire-dl",
 }
