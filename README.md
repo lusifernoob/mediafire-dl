@@ -1,3 +1,7 @@
+MediaFire-DL
+
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/lusifernoob/mediafire-dl/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
 Installation:
 
     $ pip install bs4 requests tqdm
