@@ -1,4 +1,4 @@
-MediaFire-DL
+<b><h6>MediaFire-DL</h6></b>
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/lusifernoob/mediafire-dl/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
