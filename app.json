@@ -2,7 +2,14 @@
   "name": "MediaFire-DL",
   "description": "MediaFire-DL",
   "logo": "https://telegra.ph/file/a3c5b2d8fd5df3662366d.jpg",
-  "keywords": ["telethon", "sqlalchemy", "mongodb"],
+  "keywords": ["bs4", "requests", "tqdm"],
   "repository": "https://github.com/lusifernoob/mediafire-dl",
   "success_url": "https://github.com/lusifernoob/mediafire-dl",
+  "env": {
+    "TOKEN": {
+      "description": "ok",
+      "value": "",
+      "required": false
+    }
+  }
 }
