@@ -1,1 +1,1 @@
-worker: python3 -m mediafire-dl.py
+worker: python3 -m mediafiredwl.py
